@@ -3,6 +3,8 @@
 - Class Date: March 28-29, 2023
 - Facilitator: @fredgohsman
 
+- Student: Jerome Taylor (ht1792@att.com)
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
