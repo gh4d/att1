@@ -4,7 +4,7 @@
 - Facilitator: @fredgohsman
 
 - Student: Jerome Taylor
-
+Your name
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
